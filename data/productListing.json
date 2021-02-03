@@ -253,5 +253,10 @@
     "id": 50,
     "title": "Hershey's Natural Unsweetened Cocoa",
     "category": "Cocoa"
+  },
+  {
+    "id": 51,
+    "title": "Prochiz Processed Cheddar Cheese",
+    "category": "Cheese"
   }
 ]
