@@ -284,5 +284,24 @@
     "id": 56,
     "title": "Beryl's Gourmet Chocolate Blend",
     "category": "Chocolate"
+  },
+
+   {
+    "id": 57,
+    "title": "Chocolate Flakes",
+    "category": "Chocolate"
+  },
+ {
+    "id": 58,
+    "title": "Callebaut Dark Chocolate Flakes",
+    "category": "Chocolate"
+  },
+
+ {
+    "id": 59,
+    "title": "Vivo Ace200 Whipping Cream",
+    "category": "Cream"
   }
-]
+
+ ]
+ 
