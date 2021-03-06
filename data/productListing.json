@@ -51,7 +51,7 @@
   },
   {
     "id": 10,
-    "title": "Cocoa Powder",
+    "title": "Mr Ingredient Cocoa Powder",
     "category": "Cocoa"
   },
   {
@@ -285,60 +285,51 @@
     "title": "Beryl's Gourmet Chocolate Blend",
     "category": "Chocolate"
   },
-
-   {
+  {
     "id": 57,
-    "title": "Chocolate Flakes",
+    "title": "Mr Ingredient Chocolate Flakes",
     "category": "Chocolate"
   },
- {
+  {
     "id": 58,
     "title": "Callebaut Dark Chocolate Flakes",
     "category": "Chocolate"
   },
-
- {
+  {
     "id": 59,
-    "title": "Vivo Ace200 Whipping Cream",
+    "title": "Vivo Ace 200 Topping UHT Whipping Cream",
     "category": "Cream"
   },
-
- {
+  {
     "id": 60,
-    "title": "Elle & Vire Salted Butter",
+    "title": "Elle & Vire Salted Butter Roll",
     "category": "Butter"
   },
-
- 
- {
+  {
     "id": 61,
-    "title": "Elle & Vire Unsalted Butter",
+    "title": "Elle & Vire Unsalted Butter Roll",
     "category": "Butter"
   },
-
- 
- {
+  {
     "id": 62,
-    "title": "Ever-whip Whipping ",
+    "title": "Ever Whip V Topping Cream",
     "category": "Cream"
   },
-
-
   {
     "id": 63,
-    "title": "Farmcows Butter Daily Spead ",
+    "title": "Farmcows Butter Daily Spread",
     "category": "Butter"
   },
 
   {
     "id": 64,
-    "title": "Golden Churn Salted Butter ",
+    "title": "Golden Churn Salted Butter",
     "category": "Butter"
   },
 
   {
     "id": 65,
-    "title": "Golden Churn Butter  ",
+    "title": "Golden Churn Canned Butter",
     "category": "Butter"
   },
 
@@ -347,12 +338,9 @@
     "title": "Lurpak Unsalted Butter",
     "category": "Butter"
   },
-
- 
   {
     "id": 67,
-    "title": "Lurpak Salted Butter ",
+    "title": "Lurpak Slightly Salted Butter",
     "category": "Butter"
   }
-
- ]
+]
